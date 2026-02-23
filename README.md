@@ -65,10 +65,10 @@ fun_facts:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kingmutai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enock's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmutai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=e-mutai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enock's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-mutai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmutai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=e-mutai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
