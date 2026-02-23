@@ -65,8 +65,8 @@ fun_facts:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=e-mutai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enock's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-mutai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=e-mutai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enock's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=e-mutai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=e-mutai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
@@ -91,7 +91,7 @@ fun_facts:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enock-mutai-96b50a256)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kingmutai@outlook.com)
+[![Email](https://img.shields.io/badge/Email-kingmutai%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kingmutai@outlook.com)
 
 </div>
 
