@@ -68,7 +68,7 @@ fun_facts:
 <img src="https://github-readme-stats.vercel.app/api?username=e-mutai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Enock's GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=e-mutai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=e-mutai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=e-mutai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -90,7 +90,7 @@ fun_facts:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kingmutai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enock-mutai-96b50a256)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kingmutai@outlook.com)
 
 </div>
@@ -101,6 +101,6 @@ fun_facts:
 
 ### 💬 *"Automate the boring stuff. Focus on what matters."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kingmutai&color=36BCF7&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=e-mutai&color=36BCF7&style=flat-square&label=Profile+Views)
 
 </div>
